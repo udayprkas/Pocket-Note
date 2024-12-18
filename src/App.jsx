@@ -1,4 +1,4 @@
-import Home from "../../Pocket-Note/src/pages/homepage/home";
+import Home from "./pages/homepage/home";
 import Sidebar from "./components/sidebar/sidebar";
 import CreatePopup from "./components/CreatePopup/CreatePopup";
 
